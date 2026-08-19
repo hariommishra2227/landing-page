@@ -1,0 +1,50 @@
+PRODUCT VALIDATION REPORT
+
+Product: Sophos XDR
+Main file: index.html
+
+HTML files: 1
+CSS files: 2
+JavaScript files: 1
+Images: 18
+PDF files: 6
+Other assets: 0
+
+Duplicate files detected: content-hash scan completed per product folder
+Duplicate files removed: 0
+Unused files removed: 0
+Files renamed: source product HTML renamed to index.html
+References corrected: 0
+
+Missing local assets: 0
+Broken local references: []
+Zero-byte files: []
+Corrupt images: []
+Corrupt PDFs: []
+Duplicate HTML IDs: []
+HTML errors: []
+CSS errors: []
+JavaScript errors: []
+Browser console errors: 0
+HTTP resource errors: 0
+
+Receiving email configured: Yes
+Receiving email placeholder remaining: No
+FormSubmit activation required: Yes, after the approved receiving email is configured
+Correct product-interest value: Yes
+Correct email subject: Yes
+Form payload verified: Yes
+
+Desktop test: PASS
+Tablet test: PASS
+Mobile test: PASS
+Logo test: PASS
+Certificate test: PASS
+Popup test: PASS
+Form rendering test: Static validation completed; browser status listed above
+Form validation test: Payload/static validation completed; no real lead submitted
+Success-state logic test: PASS
+Error-state logic test: PASS
+
+FINAL STATUS:
+PASS – Ready for Client Delivery
