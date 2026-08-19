@@ -1,13 +1,13 @@
 # Sophos MDR Landing Page
 
 ## Delivery Contents
-This ZIP contains one standalone folder: `Sophos-MDR`. Keep `index.html`, `styles.css`, `product-pages.css`, `scripts.js`, and `assets/` together.
+This ZIP contains one standalone folder: `mdr`. Keep `index.html`, `styles.css`, `product-pages.css`, `scripts.js`, and `assets/` together.
 
 ## Opening the Page
-Extract the ZIP, open the `Sophos-MDR` folder, and double-click `index.html`.
+Extract the ZIP, open the `mdr` folder, and double-click `index.html`.
 
 ## Local Server Option
-For a browser-server test, open PowerShell in the extracted `Sophos-MDR` folder and run:
+For a browser-server test, open PowerShell in the extracted `mdr` folder and run:
 
 ```powershell
 python -m http.server 8000
